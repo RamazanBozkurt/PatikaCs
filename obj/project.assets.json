@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Lenovo\\Desktop\\Patika\\ConsoleExample\\ConsoleProgramlama.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Patika\\Cs\\ConsoleExample\\ConsoleProgramlama.csproj",
       "projectName": "ConsoleProgramlama",
-      "projectPath": "c:\\Users\\Lenovo\\Desktop\\Patika\\ConsoleExample\\ConsoleProgramlama.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Patika\\Cs\\ConsoleExample\\ConsoleProgramlama.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Lenovo\\Desktop\\Patika\\ConsoleExample\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Patika\\Cs\\ConsoleExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
